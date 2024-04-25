@@ -1,6 +1,7 @@
-### Hi there 👋
-I'am a web and game developer.
+### <pre> Hi there 👋
+I'am a web and game developer.<br/>
 With knowledge of the PS2 and making a demake of Plants vs Zombies for PS2
+</pre>
 <!--
 **GDQR/GDQR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
