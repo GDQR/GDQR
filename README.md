@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'am a web and game developer.
+With knowledge of the PS2 and making a demake of Plants vs Zombies for PS2
 <!--
 **GDQR/GDQR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
